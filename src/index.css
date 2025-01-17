@@ -1,3 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+  color: #fff;
+  background-color: black;
+} 
+
+canvas {
+  pointer-events: none;
+}
+
+.growing{
+  background-color: #fd2c2a;
+}
