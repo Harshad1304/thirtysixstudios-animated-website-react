@@ -71,10 +71,10 @@ The website should now be running at http://localhost:3000.
 -  When clicked, a GSAP animation is triggered to create a bell-paper rolling effect, visually engaging the user.
 -  The website leverages Locomotive Scroll v5 for smooth scrolling and enhanced visual interactions.
 ## 📚 Resources and Inspiration
-- ### This project was built with the help of the following resources:
-- ### YouTube Tutorial: [https://www.youtube.com/watch?v=5WDNHl-x-AM&t=63s]
-- ### GSAP Documentation: https://greensock.com/docs/
-- ### Locomotive Scroll v5 Documentation: https://github.com/locomotivemtl/locomotive-scroll
+-  This project was built with the help of the following resources:
+-  YouTube Tutorial: [https://www.youtube.com/watch?v=5WDNHl-x-AM&t=63s]
+-  GSAP Documentation: https://greensock.com/docs/
+-  Locomotive Scroll v5 Documentation: https://github.com/locomotivemtl/locomotive-scroll
 ## 🐛 Known Issues
 -  Performance might vary based on the device and browser due to the complexity of animations.
 -  Further optimization might be needed for mobile devices.
