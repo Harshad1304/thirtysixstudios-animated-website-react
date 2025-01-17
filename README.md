@@ -44,8 +44,12 @@ npm or yarn package manager
 Installation
 Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/thirtysixstudios-clone.git](https://github.com/yourusername/thirtysixstudios-clone.git)
+git clone https://github.com/Harshad1304/thirtysixstudios-animated-website-react.git
+
 Navigate to the project directory:
+
+cd thirtysixstudios-animated-website-react
+
 ```
 
 ```bash
