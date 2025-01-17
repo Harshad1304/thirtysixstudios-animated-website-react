@@ -102,6 +102,7 @@ function App() {
             </div>
             <div className='overflow-x-hidden w-full'><div className='w-full absolute bottom-0 left-0'>
                 <h1 ref={headingRef} className='text-[17rem] font-normal leading-none tracking-tight pl-5'>Thirtysixstudios</h1>
+                <p className='pl-32 text-sm font-bold'>^^^Click here</p>
               </div>
               </div>
           </div>
