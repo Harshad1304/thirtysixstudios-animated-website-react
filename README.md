@@ -66,28 +66,28 @@ npm start
 ```
 The website should now be running at http://localhost:3000.
 
-# 📜 How It Works
-- ### The H1 text "ThirtySixStudios" on Section 2 has an onClick event listener.
-- ### When clicked, a GSAP animation is triggered to create a bell-paper rolling effect, visually engaging the user.
-- ### The website leverages Locomotive Scroll v5 for smooth scrolling and enhanced visual interactions.
-# 📚 Resources and Inspiration
+## 📜 How It Works
+-  The H1 text "ThirtySixStudios" on Section 2 has an onClick event listener.
+-  When clicked, a GSAP animation is triggered to create a bell-paper rolling effect, visually engaging the user.
+-  The website leverages Locomotive Scroll v5 for smooth scrolling and enhanced visual interactions.
+## 📚 Resources and Inspiration
 - ### This project was built with the help of the following resources:
 - ### YouTube Tutorial: [https://www.youtube.com/watch?v=5WDNHl-x-AM&t=63s]
 - ### GSAP Documentation: https://greensock.com/docs/
 - ### Locomotive Scroll v5 Documentation: https://github.com/locomotivemtl/locomotive-scroll
-# 🐛 Known Issues
-- ### Performance might vary based on the device and browser due to the complexity of animations.
-- ### Further optimization might be needed for mobile devices.
+## 🐛 Known Issues
+-  Performance might vary based on the device and browser due to the complexity of animations.
+-  Further optimization might be needed for mobile devices.
 
-# 🤝 Contributing
-- ### Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-
-
-# 📧 Contact
-- ### For any questions or feedback, feel free to reach out at -: hbhoir002@gmail.com.
+## 🤝 Contributing
+-  Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
 
 
-# 📄 License
+## 📧 Contact
+-  For any questions or feedback, feel free to reach out at -: hbhoir002@gmail.com.
+
+
+## 📄 License
 This project is licensed under the MIT License.
 
 
